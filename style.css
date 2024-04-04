@@ -207,6 +207,10 @@ footer p {
     display: none;
   }
 
+  .days {
+    display: block;
+  }
+
   .mobile-pic {
     display: inline-block;
     height: 700px;
