@@ -24,7 +24,12 @@ img {
 }
 
 strong {
-  color: #022902;
+  color: #045204;
+}
+
+hr {
+  width: 1200px;
+  margin: 2rem auto;
 }
 
 h1 {
@@ -130,6 +135,10 @@ h1 {
   font-weight: 700;
 }
 
+.grid-item h3 {
+  margin-top: 0;
+}
+
 .grid-item p {
   font-size: 18px;
 }
@@ -156,8 +165,13 @@ h1 {
   margin: 0 auto;
 }
 
+.note-section p {
+  padding-bottom: 3rem;
+  margin: 0;
+}
+
 .note-section a {
-  margin-top: 4rem;
+  margin-top: 3rem;
 }
 
 .cta-btn:hover {
@@ -209,6 +223,10 @@ footer p {
 
   .video iframe {
     width: 100%;
-    height: 300px;
+    height: 250px;
+  }
+
+  .note-section {
+    text-align: left;
   }
 }
