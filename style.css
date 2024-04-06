@@ -189,6 +189,19 @@ footer p {
   color: #aeadad;
 }
 
+.disclaimer {
+  font-weight: 800;
+  font-size: 20px;
+}
+
+.copyright {
+  margin-top: 5rem;
+  font-size: 16px;
+  color: #757474;
+  text-transform: capitalize;
+  padding-bottom: 2rem;
+}
+
 @media (max-width: 1194px) {
   .section {
     padding: 2rem;
